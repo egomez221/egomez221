@@ -4,7 +4,7 @@ Soy estudiante de último semestre de Ingeniería de Sistemas.
 
 vivo en Bogota, Colombia
 
-Me enfoco en construir aplicaciones completas: desarrollo backends en Go y Java que soportan apps web y móviles, y además implemento pipelines de datos (ETL) para recolectar, procesar y transformar información de estas aplicacion , para asi generar insights que aporten valor para los negocios.
+Me enfoco en construir aplicaciones completas: desarrollo backends en Go y Java que soportan apps web y móviles, y además implemento pipelines de datos (ETL) para recolectar, procesar y transformar información de estas aplicaciones , para asi generar insights que aporten valor para los negocios.
 
 ### Tecnologías
 - 🧠 Data / Análisis: Python, NumPy, Excel, Power BI  
