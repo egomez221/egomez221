@@ -11,6 +11,7 @@ Me enfoco en construir aplicaciones completas: desarrollo backends en Go y Java 
 - ⚙️ Back-end: Go, Java  
 - 📱 Frontend: Kotlin (móvil), HTML, CSS, JavaScript, React  
 
+### Mis intereses
 
 - 🔭 Actualmente trabajo en sistemas backend en Go/java con pipelines de datos integrados
   
@@ -19,9 +20,16 @@ Me enfoco en construir aplicaciones completas: desarrollo backends en Go y Java 
 - 👯 Buscando colaborar en proyectos de backend o basados en datos
 
 - 🤔 Buscando ayuda en pipelines de datos más avanzados y arquitectura de sistemas
+
+  ### Acerca de mi
     
 - 💬 Pregúntame sobre desarrollo backend, APIs o análisis de datos
   
 - 📫 Cómo contactarme: egomezg@outlook.com
   
-- ⚡ Dato curioso sobre mi: soy un correrdor de resistencia , entreno para maratones 
+- ⚡ Dato curioso sobre mi: soy un correrdor de resistencia , entreno para maratones y mi meta es correr a 12km/h por 4 horas seguidas.
+
+- 🌐 Idiomas:
+     1. Ingles C2
+     2. Español (Nativo)
+     3. Frances B2
