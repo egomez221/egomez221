@@ -17,7 +17,7 @@ Me gusta construir aplicaciones completas. Trabajo principalmente en backends co
 
 ### Sobre mí
 - 💬 Puedes preguntarme sobre backend, APIs o análisis de datos  
-- 📫 egomezg@outlook.com  
+- 📫 e.gomezg@outlook.com  
 - ⚡ Corro largas distancias; estoy entrenando para maratones y quiero llegar a mantener 12 km/h por 4 horas  
 
 ### 🌐 Idiomas
