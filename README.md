@@ -1,26 +1,26 @@
 ## Hola, soy Enrique (Kike) 👋
 
-Soy estudiante de último semestre de Ingeniería de Sistemas, ubicado en Bogotá, Colombia.
+Soy estudiante de último semestre de Ingeniería de Sistemas y vivo en Bogotá, Colombia.
 
-Me enfoco en construir aplicaciones completas: desarrollo backends en Go y Java que soportan apps web y móviles, y además implemento pipelines de datos (ETL) para recolectar, procesar y transformar la información generada por estas aplicaciones en insights que aporten valor a los negocios.
+Me gusta construir aplicaciones completas. Trabajo principalmente en backends con Go y Java que sirven tanto para apps web como móviles. También me interesa mucho la parte de datos, así que suelo implementar pipelines (ETL) para recolectar y procesar información y poder sacar insights útiles para negocio.
 
-### 🚀 Tecnologías
-- 🧠 **Data / Análisis:** Python, NumPy, Excel, Power BI  
-- ⚙️ **Back-end:** Go, Java  
-- 📱 **Frontend:** Kotlin (móvil), HTML, CSS, JavaScript, React  
+### Tecnologías
+- 🧠 Data / Análisis: Python, NumPy, Excel, Power BI  
+- ⚙️ Back-end: Go, Java  
+- 📱 Frontend: Kotlin (móvil), HTML, CSS, JavaScript, React  
 
-### 🔍 Intereses actuales
-- 🔭 Desarrollo de sistemas backend en Go/Java con pipelines de datos integrados  
-- 🌱 Aprendiendo sobre data engineering y diseño de sistemas escalables  
-- 👯 Interesado en colaborar en proyectos de backend o basados en datos  
-- 🤔 Explorando pipelines de datos avanzados y arquitectura de sistemas  
+### En qué ando
+- 🔭 Trabajando en proyectos de backend con Go/Java + pipelines de datos  
+- 🌱 Aprendiendo más sobre data engineering y sistemas escalables  
+- 👯 Abierto a colaborar en proyectos de backend o data  
+- 🤔 Tratando de mejorar en pipelines más complejos y arquitectura  
 
-### 👨‍💻 Acerca de mí
-- 💬 Pregúntame sobre backend, APIs o análisis de datos  
-- 📫 Contacto: egomezg@outlook.com  
-- ⚡ Dato curioso: soy corredor de resistencia; entreno para maratones y mi meta es correr a 12 km/h durante 4 horas seguidas  
+### Sobre mí
+- 💬 Puedes preguntarme sobre backend, APIs o análisis de datos  
+- 📫 egomezg@outlook.com  
+- ⚡ Corro largas distancias; estoy entrenando para maratones y quiero llegar a mantener 12 km/h por 4 horas  
 
 ### 🌐 Idiomas
-- 🇺🇸 Inglés: C2  
-- 🇪🇸 Español: Nativo  
-- 🇫🇷 Francés: B2  
+- Inglés C2  
+- Español nativo  
+- Francés B2  
